@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/com.rikelry.Pixelet.desktop.in
+data/com.rikelry.Pixelet.metainfo.xml.in
+data/com.rikelry.Pixelet.gschema.xml
+src/window.ui
